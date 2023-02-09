@@ -13,9 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋 <img src="https://komarev.com/ghpvc/?username=alberto-paparella&style=flat-square&color=blue" alt=""/>
+### Hi there 👋 My name is Alberto Paparella
 
 ---
+
+**A Computer Science student currently based in Bologna, Italy, and interested in Machine and Deep Learning**
+
+<img src="https://komarev.com/ghpvc/?username=alberto-paparella&style=flat-square&color=blue" alt=""/>
 
 ### :man_technologist: About Me :
  - :books: I'm currently attending a Master Degree in **Computer Science** at **University of Bologna**
