@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
  - :books: I'm currently attending a Master Degree in **Computer Science** at **University of Bologna**
- - :mortar_board: I have a Bachelor Degree in **Computer Science** at **University of Ferrara**
+ - :mortar_board: I got a Bachelor Degree in **Computer Science** at **University of Ferrara**
  - :nerd_face: I'm particularly interested in Machine Learning, Deep Learning and Reinforcement Learning
  - :black_nib: I'm a Latex enjoyer
  - :notes: I really like music, especially metal, and love going to live shows
