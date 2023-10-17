@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 
 ---
 
-**A Computer Science student currently based in Bologna, Italy, and interested in Machine and Deep Learning**
+**A PhD fellow currently based in Ferrara, Italy, and interested in Machine and Deep Learning**
 
 <img src="https://komarev.com/ghpvc/?username=alberto-paparella&style=flat-square&color=blue" alt=""/>
 
 ### :man_technologist: About Me :
- - :books: I'm currently attending a Master Degree in **Computer Science** at **University of Bologna**
+ - :books: I'm currently attending a PhD in *Mathematics* at **University of Ferrara**
+ - :mortar_board: I got a Master Degree in **Computer Science** at **University of Bologna**
  - :mortar_board: I got a Bachelor Degree in **Computer Science** at **University of Ferrara**
  - :nerd_face: I'm particularly interested in Machine Learning, Deep Learning and Reinforcement Learning
  - :black_nib: I'm a Latex enjoyer
