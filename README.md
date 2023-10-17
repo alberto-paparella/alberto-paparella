@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=alberto-paparella&style=flat-square&color=blue" alt=""/>
 
 ### :man_technologist: About Me :
- - :books: I'm currently attending a PhD in *Mathematics* at **University of Ferrara**
+ - :books: I'm currently attending a PhD in **Mathematics** at **University of Ferrara**
  - :mortar_board: I got a Master Degree in **Computer Science** at **University of Bologna**
  - :mortar_board: I got a Bachelor Degree in **Computer Science** at **University of Ferrara**
  - :nerd_face: I'm particularly interested in Machine Learning, Deep Learning and Reinforcement Learning
