@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-**A PhD student at [ACLAI Lab](https://aclai.unife.it/en/) usually based in Ferrara, Italy :it: , but currently in Brisbane, Australia :Australia: , and interested in Many-Valued Logic and Symbolic Learning**
+**A PhD student at [ACLAI Lab](https://aclai.unife.it/en/) usually based in Ferrara, Italy :it: , but currently in Brisbane, Australia :australia: , and interested in Many-Valued Logic and Symbolic Learning**
 
 <img src="https://komarev.com/ghpvc/?username=alberto-paparella&style=flat-square&color=blue" alt=""/>
 
