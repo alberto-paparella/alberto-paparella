@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 
 ---
 
-**A PhD student at [ACLAI Lab](https://aclai.unife.it/en/) currently based in Ferrara, Italy, and interested in Symbolic Learning**
+**A PhD student at [ACLAI Lab](https://aclai.unife.it/en/) usually based in Ferrara, Italy:it:, but currently in Brisbane, Australia:australia:, and interested in Many-Valued Logic and Symbolic Learning**
 
 <img src="https://komarev.com/ghpvc/?username=alberto-paparella&style=flat-square&color=blue" alt=""/>
 
 ### :man_technologist: About Me :
  - :books: I'm currently attending a PhD in **Mathematics** at **University of Ferrara**
+ - :earth_asia: I'm currently a visiting PhD student at **University of Queensland**
  - :mortar_board: I got a Master Degree in **Computer Science** at **University of Bologna**
  - :mortar_board: I got a Bachelor Degree in **Computer Science** at **University of Ferrara**
  
