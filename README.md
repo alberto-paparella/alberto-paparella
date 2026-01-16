@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=alberto-paparella)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberto-paparella&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alberto-paparella&layout=compact&hide=javascript,html,scss,css)](https://github.com/Pranesh-2005/github-readme-stats)
