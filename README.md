@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=alberto-paparella)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ten-neon.vercel.app?user=alberto-paparella)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats-ten-neon.vercel.app?user=alberto-paparella&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alberto-paparella&layout=compact&hide=javascript,html,scss,css)](https://github.com/Pranesh-2005/github-readme-stats)
